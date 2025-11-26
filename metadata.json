@@ -1,0 +1,7 @@
+{
+  "name": "SellerHub Pro",
+  "description": "A comprehensive Flipkart-like seller dashboard for managing products, orders, payments, and analytics with AI-powered insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
